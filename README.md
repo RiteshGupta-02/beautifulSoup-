@@ -1,4 +1,5 @@
 # Job Listings Web Scraper
+https://roadmap.sh/projects/job-listings-scraper
 
 This project demonstrates a small web-scraping workflow with Python, Requests, Beautiful Soup, and pandas. The notebook fetches the job listings from Real Python's [Fake Jobs](https://realpython.github.io/fake-jobs/) website, extracts selected fields, and exports the results to `job.csv`.
 
